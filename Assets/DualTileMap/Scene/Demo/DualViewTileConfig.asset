@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1348b05070564edab1d2c2a2132993b0, type: 3}
+  m_Name: DualViewTileConfig
+  m_EditorClassIdentifier: 
+  Text: {fileID: 2800000, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  Tile: {fileID: 11400000, guid: 98ec3c582e87b4c4d8cb068279280e2c, type: 2}
+  EditFlag: 1
+  configs:
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 01010101
+    tileSp: {fileID: 606528583, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 01010000
+    tileSp: {fileID: -893305944, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 01000100
+    tileSp: {fileID: 1960732508, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 00010001
+    tileSp: {fileID: 1107841693, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 00000000
+    tileSp: {fileID: 1302610403, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 00000101
+    tileSp: {fileID: -1557596715, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 01000001
+    tileSp: {fileID: -1632514681, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 00010100
+    tileSp: {fileID: -1158788685, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 01010100
+    tileSp: {fileID: -1639013417, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 01010001
+    tileSp: {fileID: -1663485666, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 00000001
+    tileSp: {fileID: 1090349199, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 00000100
+    tileSp: {fileID: -669758055, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 01000101
+    tileSp: {fileID: -566454309, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 00010101
+    tileSp: {fileID: -1089737115, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 00010000
+    tileSp: {fileID: 1613584844, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
+  - Lock: 1
+    gameObject: {fileID: 0}
+    mathRule:
+      datas: 01000000
+    tileSp: {fileID: -1492729150, guid: 1a97c4341da631e4a99c242582491a83, type: 3}
